@@ -2,6 +2,7 @@ package com.beniregev.minesweeper.ui;
 
 import javax.swing.JFrame;
 import com.beniregev.minesweeper.model.MineField;
+import com.beniregev.minesweeper.model.VisibleField;
 
 /**
  MineSweeperFixed -- main class for a GUI minesweeper game.
