@@ -1,4 +1,6 @@
-package com.beniregev.minesweeper.model;
+package com.beniregev.minesweeper.ui;
+
+import com.beniregev.minesweeper.model.MineField;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
