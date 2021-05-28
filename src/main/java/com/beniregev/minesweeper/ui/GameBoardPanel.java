@@ -1,6 +1,7 @@
 package com.beniregev.minesweeper.ui;
 
 import com.beniregev.minesweeper.model.MineField;
+import com.beniregev.minesweeper.model.VisibleField;
 
 import java.awt.BorderLayout;
 import java.awt.Color;
