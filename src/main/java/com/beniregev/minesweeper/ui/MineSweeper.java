@@ -1,4 +1,4 @@
-package com.beniregev.minesweeper.model;
+package com.beniregev.minesweeper.ui;
 
 import javax.swing.JFrame;
 
@@ -11,6 +11,7 @@ import javax.swing.JFrame;
  * java MineSweeper
  *
  * DO NOT CHANGE THIS FILE
+ * @author binyamin.regev
  */
 public class MineSweeper {
     private static final int FRAME_WIDTH = 400;
