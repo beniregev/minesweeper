@@ -3,11 +3,17 @@ package com.beniregev.minesweeper.model;
 import java.util.Random;
 
 /**
- * MineField
- * class with locations of mines for a game.
- * This class is mutable, because we sometimes need to change it once it's created.
- * Mutators: populateMineField, resetEmpty includes convenience method to tell the
- * number of mines adjacent to a location.
+ *  <div>
+ *      <h1>MineField</h1>
+ *      <p>
+ *          <div><p>class with locations of mines for a game.</p></div>
+ *          <div>This class is mutable, because we sometimes need to change it once it's created.</div>
+ *          <div>
+ *              Mutators: populateMineField, resetEmpty includes convenience method to tell the
+ *              number of mines adjacent to a location.
+ *          </div>
+ *      </p>
+ *  </div>
  * @author binyamin.regev
  */
 public class MineField {

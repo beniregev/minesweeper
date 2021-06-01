@@ -3,14 +3,22 @@ package com.beniregev.minesweeper.ui;
 import javax.swing.JFrame;
 
 /**
- * MineSweeper -- main class for a GUI minesweeper game.
- * Games use a 9 x 9 board with 10 randomly placed mines.  For more details about this
- * game and how to play it, see the assignment description.
- *
- * To run it from the command line:
- * java MineSweeper
- *
- * DO NOT CHANGE THIS FILE
+ *  <div>
+ *      <p>
+ *          <div><h1>MineSweeper -- main class for a GUI minesweeper game</h1></div>
+ *          <div>
+ *              Games use a 9 x 9 board with 10 randomly placed mines. For more details about this
+ *              game and how to play it, see the assignment description.
+ *          </div>
+ *      </p>
+ *      <p>
+ *          To run it from the command line: <br />
+ *          java MineSweeper
+ *      </p>
+ *      <p>
+ *          <h2>******* DO NOT CHANGE THIS FILE *******</h2>
+ *      </p>
+ *  </div>
  * @author binyamin.regev
  */
 public class MineSweeper {

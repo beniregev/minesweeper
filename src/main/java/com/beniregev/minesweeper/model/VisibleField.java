@@ -22,6 +22,7 @@ package com.beniregev.minesweeper.model;
  *     It contains the MineField that it's partially displaying.  That MineField can be accessed (or modified) from
  *     outside this class via the getMineField accessor.
  * </p>
+ * @author binyamin.regev
  */
 public class VisibleField {
     // ----------------------------------------------------------

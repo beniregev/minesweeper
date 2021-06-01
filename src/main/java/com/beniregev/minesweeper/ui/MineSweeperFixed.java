@@ -5,12 +5,22 @@ import com.beniregev.minesweeper.model.MineField;
 import com.beniregev.minesweeper.model.VisibleField;
 
 /**
- MineSweeperFixed -- main class for a GUI minesweeper game.
- Uses a hard-coded mine field for testing purposes.  For more details about this
- game and how to play it, see the assignment description.
-
- To run it from the command line:
- java MineSweeperFixed
+    <div>
+    <p>
+        <h1>MineSweeperFixed -- main class for a GUI minesweeper game.</h1>
+        <div>
+            Uses a hard-coded mine field for testing purposes.  For more details about this
+            game and how to play it, see the assignment description.
+        </div>
+    </p>
+    <p>
+        <div>
+            To run it from the command line: <br />
+            java MineSweeperFixed
+        </div>
+    </p>
+    </div>
+ @author binyamin.regev
  */
 public class MineSweeperFixed {
     // You can  modify this program so it uses a different one of the hardcoded mines below,
